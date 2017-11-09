@@ -3,14 +3,57 @@
 }
 
 @font-face {
-    font-family: "custom_457";
-    src: url("https://rafaelmedian.github.io/turtle.lol/fonts/5768424da2238149633e414f.woff") format('woff');
+  font-family: "custom_457";
+  src: url("https://rafaelmedian.github.io/turtle.lol/fonts/5768424da2238149633e414f.woff") format('woff');
 }
 
 * {
   font-family: 'custom_457', 'Circular Std', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
   "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
 }
+
+* {
+  transition: all 0.2s ease-out;
+}
+
+.contrast {
+  /*background-color: #4433f1;*/
+  color: #1AAA94;
+}
+
+div[role="first"] h1{
+  opacity: 0;
+  transform: translateY(-20px);
+  animation: fadeIn 0.6s 0.5s 1 forwards ease-in-out; }
+
+/*article[role="first"] h1 {
+  animation-delay: 0.8s; }
+
+article[role="second"] h1 {
+  animation-delay: 1s; }*/
+
+@-webkit-keyframes fadeIn {
+  0% {
+    transform: translateY(-20px);
+    opacity: 0; }
+  100% {
+    transform: translateY(0);
+    opacity: 1; } }
+@-moz-keyframes fadeIn {
+  0% {
+    transform: translateY(-20px);
+    opacity: 0; }
+  100% {
+    transform: translateY(0);
+    opacity: 1; } }
+@keyframes fadeIn {
+  0% {
+    transform: translateY(-20px);
+    opacity: 0; }
+  100% {
+    transform: translateY(0);
+    opacity: 1; } }
+
 
 /*
 .circular {
