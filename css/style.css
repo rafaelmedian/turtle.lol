@@ -16,6 +16,11 @@
   transition: all 0.2s ease-out;
 }
 
+.logo:hover {
+    cursor: progress;
+    color: rgba(255,255,255,.6);
+}
+
 .contrast {
   /*background-color: #4433f1;*/
   color: #1AAA94;
@@ -28,9 +33,6 @@ div[role="first"] h1{
 
 article[role="first"] h1 {
   animation-delay: 0.8s; }
-
-/*article[role="second"] h1 {
-  animation-delay: 1s; }*/
 
 @-webkit-keyframes fadeIn {
   0% {
