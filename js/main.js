@@ -1,1 +1,1 @@
-(function(){$(".logo").click(function(){$("body").toggleClass("contrast")}),$(document).ready(function(){var o;o=$(".click")[0],$(".logo").mousedown(function(){o.play()}),$(".logo").mouseup(function(){o.play()})})}).call(this);
+(function(){$(".logo").click(function(){$("h1").toggleClass("contrast")}),$(document).ready(function(){var o;o=$(".click")[0],$(".logo").mousedown(function(){o.play()}),$(".logo").mouseup(function(){o.play()})})}).call(this);
