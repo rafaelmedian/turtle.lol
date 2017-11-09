@@ -1,0 +1,18 @@
+.bg-green {
+  background-color: #1FC5AC;
+}
+
+@font-face {
+    font-family: "custom_457";
+    src: url("fonts/5768424da2238149633e414f.woff") format('woff');
+}
+
+* {
+  font-family: 'custom_457', 'Circular Std', 'Helvetica Neue', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif,
+  "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+/*
+.circular {
+  font-family: 'Circular Std', 'Helvetica Neue', Helvetica, sans-serif
+}*/
