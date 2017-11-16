@@ -20,6 +20,61 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/apple-logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 791,
+		"inputAbbreviatedPath": "\/img\/apple-logo.png",
+		"outputAbbreviatedPath": "\/img\/apple-logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/apple-logo@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1561,
+		"inputAbbreviatedPath": "\/img\/apple-logo@2x.png",
+		"outputAbbreviatedPath": "\/img\/apple-logo@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/phone.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 87376,
+		"inputAbbreviatedPath": "\/img\/phone.jpg",
+		"outputAbbreviatedPath": "\/img\/phone.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/phone@2x.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 139511,
+		"inputAbbreviatedPath": "\/img\/phone@2x.png",
+		"outputAbbreviatedPath": "\/img\/phone@2x.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/play-button.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1572,
+		"inputAbbreviatedPath": "\/img\/play-button.png",
+		"outputAbbreviatedPath": "\/img\/play-button.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/turtle-head.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -38,6 +93,17 @@
 		"initialSize": 109943,
 		"inputAbbreviatedPath": "\/img\/turtle-social-img-1.jpg",
 		"outputAbbreviatedPath": "\/img\/turtle-social-img-1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/turtle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3019,
+		"inputAbbreviatedPath": "\/img\/turtle.png",
+		"outputAbbreviatedPath": "\/img\/turtle.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

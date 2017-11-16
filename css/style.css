@@ -18,14 +18,14 @@
 
 .logo:hover {
     cursor: progress;
-    /*color: rgba(0,0,0,.6);*/
 }
 
-
-
 .contrast {
-  /*background-color: #4433f1;*/
   color: #1AAA94;
+}
+
+.header-img {
+  max-height: 63vh;
 }
 
 div[role="first"] h1{
