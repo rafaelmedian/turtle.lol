@@ -93,6 +93,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/profiles\/abraham.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7980,
+		"inputAbbreviatedPath": "\/img\/profiles\/abraham.jpg",
+		"outputAbbreviatedPath": "\/img\/profiles\/abraham.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/profiles\/don.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11018,
+		"inputAbbreviatedPath": "\/img\/profiles\/don.jpg",
+		"outputAbbreviatedPath": "\/img\/profiles\/don.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/profiles\/louis.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11247,
+		"inputAbbreviatedPath": "\/img\/profiles\/louis.jpg",
+		"outputAbbreviatedPath": "\/img\/profiles\/louis.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/profiles\/nick.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13645,
+		"inputAbbreviatedPath": "\/img\/profiles\/nick.jpg",
+		"outputAbbreviatedPath": "\/img\/profiles\/nick.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/profiles\/rafael.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13735,
+		"inputAbbreviatedPath": "\/img\/profiles\/rafael.jpg",
+		"outputAbbreviatedPath": "\/img\/profiles\/rafael.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/img\/turtle-head.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
