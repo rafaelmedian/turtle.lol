@@ -28,6 +28,13 @@
   max-height: 63vh;
 }
 
+.cta {
+    font-weight: 700;
+    transition: all .15s ease-out;
+    padding: 1em 1.75em;
+    margin: 1.25rem 1rem;
+}
+
 div[role="first"] h1{
   opacity: 0;
   transform: translateY(-20px);
