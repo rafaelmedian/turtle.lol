@@ -2,6 +2,11 @@
   background-color: #1FC5AC;
 }
 
+.turtle-green {
+  color: #1FC5AC;
+
+}
+
 @font-face {
   font-family: "custom_457";
   src: url("https://rafaelmedian.github.io/turtle.lol/fonts/5768424da2238149633e414f.woff") format('woff');
@@ -34,6 +39,10 @@
 
 .mw26 {
   max-width: 26rem;
+}
+
+.mw28 {
+  max-width: 28rem;
 }
 
 .bg-soft-gray {
