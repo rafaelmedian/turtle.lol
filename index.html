@@ -20,11 +20,14 @@
     <link href='/img/apple-touch-icon.png' rel='apple-touch-icon'>
 
     <link href='https://rafaelmedian.github.io/turtle.lol/css/tachyons.min.css' rel='stylesheet'>
-    <link href='css/style.css' rel='stylesheet'>
 
+    <link href='css/style.css' rel='stylesheet'>
+    <link rel="stylesheet" href="css/basicLightbox.min.css">
     <title>Turtle App is coming to the appstore</title>
   </head>
+
   <body class="bg-green h-100">
+
     <audio class='click'>
       <source src='https://rafaelmedian.github.io/turtle.lol/img/thisisnotanimagelol.wav'>
     </audio>
@@ -52,14 +55,21 @@
 
       <div class="db v-mid w-100 pa4 tc">
         <a class="cta grow f5 link dim br3 ph3 pv2 mb2 dib black bg-white" href="#0"><img class="mr2 mb2 v-mid" height="26px" src="img/apple-logo@2x.png" alt="cta">Download Now</a>
-        <a class="cta grow f5 link dim br3 ph3 pv2 mb2 dib white bg-dark-gray" href="#0"><img class="mr2 mb1 v-mid" height="28px" src="img/play-button.png" alt="cta">Watch Video</a>
+        <iframe width="860" height="484" src="https://www.youtube.com/embed/LYnsSlO_xaU?rel=0" frameborder="0" allowfullscreen data-basicLightbox data-id="1"></iframe>
+        <a class="button cta grow f5 link dim br3 ph3 pv2 mb2 dib white bg-dark-gray" href="#" data-show-id="1"><img class="mr2 mb1 v-mid" height="28px" src="img/play-button.png" data-show-id="1" alt="cta">Watch Video</a>
+
+
       </div>
 
     </article>
 
+
+
     <script src='https://rafaelmedian.github.io/turtle.lol/js/jquery.min.js'></script>
-    <script src='https://rafaelmedian.github.io/turtle.lol/js/main.js'></script>
-    <script>
+    <script src="/js/basicLightbox.min.js"></script>
+    <script src='/js/main.js'></script>
+
+    <!-- <script>
       var _gaq = _gaq || [];
       _gaq.push(['_setAccount', '']);
       _gaq.push(['_trackPageview']);
@@ -68,6 +78,6 @@
         ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
         var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
       })();
-    </script>
+    </script> -->
   </body>
 </html>
